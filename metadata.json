@@ -1,0 +1,6 @@
+{
+  "name": "ArbitrageGo",
+  "description": "Real-Time Market Comparison & Arbitrage Intelligence Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
